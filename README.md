@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inaciogabriel0&theme=tokyonight&locale=pt_BR"  alt="GitHub Streak" /></a>
 <div display="flex">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inaciogabriel0&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=transparent" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaciogabriel0&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent" width="22%"/>
 </div>
 
   <!--
