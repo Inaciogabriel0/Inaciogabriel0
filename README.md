@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inaciogabriel0&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inaciogabriel0&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inaciogabriel0anuraghazra&show_icons=true&theme=transparent)
 <!--
 **Inaciogabriel0/Inaciogabriel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
