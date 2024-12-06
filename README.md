@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<a href="https://odia.ig.com.br/colunas/daniel-nascimento/2024/12/6964658-namoro-de-ayrton-senna-e-xuxa-era-marketing-diz-amigo-do-piloto.html"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4pN2DM5O7FsGAUSRprR95r1uP6-gCqPxtfLueAyST_RrzEk7" />
+</a>
+
 <!--
 **Inaciogabriel0/Inaciogabriel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
