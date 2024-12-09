@@ -1,4 +1,4 @@
-## 
+## oi, sou inacio gabriel estou começando na area de programaçao , seja bem vindo!
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inaciogabriel0&theme=tokyonight&locale=pt_BR"  alt="GitHub Streak" /></a>
 <div display="flex">
