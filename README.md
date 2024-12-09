@@ -5,9 +5,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=transparent" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaciogabriel0&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent" width="22%"/> <br>
 </div>
-<a href="https://www.php.net/">
-            <img src="https://avatars.githubusercontent.com/u/25158?s=50&v=4"  width="48px" />
-        </a>
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="30" width="70" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="Rafa-Ts" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div> <br>
 <div
 <a href="https://www.instagram.com/inacio_gabriel00" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"> </a>  
 </div>
