@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaciogabriel0&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent" width="22%"/> <br>
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="70" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <a href="https://laravel.com/" target"_blank"></a> <img align="center" alt="Rafa-Js" height="30" width="70" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Rafa-Ts" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div> <br>
 <div
