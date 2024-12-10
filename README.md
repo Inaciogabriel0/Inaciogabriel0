@@ -1,18 +1,15 @@
 <!-- Título Principal -->
 <h1 align="center">Oi, sou Inácio Gabriel. Estou começando na área de programação, seja bem-vindo!</h1>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=inaciogabriel0&theme=tokyonight&locale=pt_BR" alt="GitHub Streak">
-  </a>
-</p>
+<div display="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Inaciogabriel0&theme=merko&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=80%2C033100%2C0A5661&ring=1CD41971&fire=00F324D9" width="100%" alt="GitHub Streak" />
+    <div display="flex" align="right">
+            <img style="width: 56%; position: absolute; left: 0; top: 0" src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=merko&background=80%2C033100%2C0A56" alt=Davi/>
+            <img style="width: 43%; position: fixed; right: 0; top: 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=Inaciogabriel0&show_icons=true&layout=compact&theme=merko" alt="Davi" />
+    </div>
+</div>
 
-<!-- Estatísticas e Linguagens -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=transparent" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaciogabriel0&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent" width="48%" alt="Top Languages">
-</p>
+
 
 <!-- Tecnologias -->
 <p align="center">
