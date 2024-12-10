@@ -16,9 +16,8 @@
 </div> <br>
 <div
 
-<a href="https://www.linkedin.com/in/in%C3%A1cio-gabriel-aa0599300/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTC4UKxCzTieChBNYaiSbQw%3D%3D" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-</a>
+<a href="https://linkedin.com/in/inácio-gabriel-aa0599300" target="_blank">Visite meu LinkedIn</a>
+
 
   
   <a href="https://www.instagram.com/inacio_gabriel00" target="_blank">
