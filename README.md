@@ -1,6 +1,6 @@
 <!-- Título Principal -->
 <h1 align="center">Olá! 👋 Me chamo Inácio Gabriel</h1>
-<h3 align="center">Desenvolvedor em formação | Foco em aplicações modernas com PHP, Laravel, Next.js (Fullstack) e Docker</h3>
+<h3 align="center">Desenvolvedor em formação | Foco em aplicações modernas com PHP, Laravel, Next.js e Docker</h3>
 
 ---
 
