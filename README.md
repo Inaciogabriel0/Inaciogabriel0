@@ -1,48 +1,68 @@
 <!-- Título Principal -->
-<h1 align="center">Oi, sou Inácio Gabriel. Estou começando na área de programação, seja bem-vindo!</h1>
+<h1 align="center">Olá! 👋 Me chamo Inácio Gabriel</h1>
+<h3 align="center">Desenvolvedor em formação | Foco em aplicações modernas com PHP, Laravel, Next.js (Fullstack) e Docker</h3>
 
-<div display="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Inaciogabriel0&theme=merko&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=80%2C033100%2C0A5661&ring=1CD41971&fire=00F324D9" width="100%" alt="GitHub Streak" />
-    <div display="flex" align="right">
-            <img style="width: 56%; position: absolute; left: 0; top: 0" src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=merko&background=80%2C033100%2C0A56" alt=Davi/>
-            <img style="width: 43%; position: fixed; right: 0; top: 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=Inaciogabriel0&show_icons=true&layout=compact&theme=merko" alt="Davi" />
-    </div>
-</div>
+---
 
+<!-- Estatísticas -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Inaciogabriel0&theme=merko&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=80%2C033100%2C0A5661&ring=1CD41971&fire=00F324D9" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=merko&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaciogabriel0&layout=compact&theme=merko&hide_border=true" />
+</p>
+
+---
+
+<!-- Sobre Mim -->
+### 👨‍💻 Sobre Mim
+
+Sou um entusiasta da tecnologia, explorando o desenvolvimento web com foco em aplicações back-end e fullstack. Estou sempre buscando evoluir e aplicar meus conhecimentos em projetos reais.
+
+Atualmente estudando e trabalhando com:
+
+- **Back-end:** PHP, Laravel, Next.js (API Routes), Prisma
+- **Banco de dados:** MySQL
+- **Ambiente de desenvolvimento:** Docker, Git
+
+---
 
 <!-- Tecnologias -->
+### 🚀 Tecnologias que uso e estudo
+
 <p align="center">
-  <a href="https://laravel.com/" target="_blank">
-    <img alt="Laravel" height="40" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" height="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="50" alt="Prisma" />
 </p>
 
-<!-- Redes Sociais -->
+---
+
+<!-- Contato -->
+### 📲 Vamos nos conectar!
+
 <p align="center">
   <a href="https://linkedin.com/in/inácio-gabriel-aa0599300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/inacio_gabriel00" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
+---
 
-  <!--
-**Inaciogabriel0/Inaciogabriel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Rodapé opcional -->
+<!--
+**Inaciogabriel0/Inaciogabriel0** é um repositório ✨especial✨ porque seu `README.md` aparece no seu perfil GitHub.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Atualmente aprendendo: Laravel, Next.js, Prisma
+- 💼 Buscando oportunidades para crescer como dev back-end
+- ⚙️ Gosto de automatizar e construir sistemas úteis
 -->
