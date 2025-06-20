@@ -19,7 +19,7 @@
 <!-- Sobre Mim -->
 ### 👨‍💻 Sobre Mim
 
-Sou um entusiasta da tecnologia, explorando o desenvolvimento web com foco em aplicações back-end e fullstack. Estou sempre buscando evoluir e aplicar meus conhecimentos em projetos reais.
+Sou um entusiasta da tecnologia, explorando o desenvolvimento web com foco em aplicações back-end. Estou sempre buscando evoluir e aplicar meus conhecimentos em projetos reais.
 
 Atualmente estudando e trabalhando com:
 
