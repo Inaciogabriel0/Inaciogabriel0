@@ -23,8 +23,8 @@ Sou um entusiasta da tecnologia, explorando o desenvolvimento web com foco em ap
 
 Atualmente estudando e trabalhando com:
 
-- **Back-end:** PHP, Laravel, Next.js (API Routes), Prisma
-- **Banco de dados:** MySQL
+- **Back-end:** PHP, Laravel, Next.js (API Routes), Vue 3 ,Prisma
+- **Banco de dados:** MySQL, Sqlite
 - **Ambiente de desenvolvimento:** Docker, Git
 
 ---
@@ -34,12 +34,15 @@ Atualmente estudando e trabalhando com:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="50" alt="Prisma" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" width="50" alt="SQLite"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="50" alt="Vue 3"/>
+
 </p>
 
 ---
