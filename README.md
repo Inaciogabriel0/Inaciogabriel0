@@ -1,55 +1,70 @@
-<!-- Título Principal -->
 <h1 align="center">Olá! 👋 Me chamo Inácio Gabriel</h1>
-<h3 align="center">Desenvolvedor em formação | Foco em aplicações modernas com PHP, Laravel, Next.js e Docker</h3>
-
----
-
-<!-- Estatísticas -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Inaciogabriel0&theme=merko&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=80%2C033100%2C0A5661&ring=1CD41971&fire=00F324D9" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Foco+em+PHP%2C+Laravel+e+Next.js;Entusiasta+de+Docker+e+Back-end" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Inaciogabriel0&show_icons=true&theme=merko&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaciogabriel0&layout=compact&theme=merko&hide_border=true" />
-</p>
+
+
 
 ---
 
-<!-- Sobre Mim -->
-### 👨‍💻 Sobre Mim
-
-Sou um entusiasta da tecnologia, explorando o desenvolvimento web com foco em aplicações back-end. Estou sempre buscando evoluir e aplicar meus conhecimentos em projetos reais.
-
-Atualmente estudando e trabalhando com:
-
-- **Back-end:** PHP, Laravel, Next.js (API Routes), Vue 3 ,Prisma
-- **Banco de dados:** MySQL, Sqlite
-- **Ambiente de desenvolvimento:** Docker, Git
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 Sobre Mim</h3>
+      <p>Sou um entusiasta da tecnologia, explorando o desenvolvimento web com foco em aplicações back-end. Estou sempre buscando evoluir e aplicar meus conhecimentos em projetos reais.</p>
+      <ul>
+        <li>🌍 Focado em soluções modernas</li>
+        <li>🛠️ Apaixonado por arquitetura de sistemas</li>
+        <li>🚀 Sempre aprendendo algo novo</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🚀 Stack Tecnológica</h3>
+      <div align="center">
+        <table align="center">
+          <tr>
+            <td align="center" width="70">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" alt="PHP"/><br><sub>PHP</sub>
+            </td>
+            <td align="center" width="70">
+              <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="35" alt="Laravel"/><br><sub>Laravel</sub>
+            </td>
+            <td align="center" width="70">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" alt="Next.js"/><br><sub>Next.js</sub>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="70">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" alt="MySQL"/><br><sub>MySQL</sub>
+            </td>
+            <td align="center" width="70">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="35" alt="Prisma"/><br><sub>Prisma</sub>
+            </td>
+            <td align="center" width="70">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker"/><br><sub>Docker</sub>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="70">
+              <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="35" alt="Vue 3"/><br><sub>Vue 3</sub>
+            </td>
+            <td align="center" width="70">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="Git"/><br><sub>Git</sub>
+            </td>
+            <td align="center" width="70">
+              <img src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" width="35" alt="SQLite"/><br><sub>SQLite</sub>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- Tecnologias -->
-### 🚀 Tecnologias que uso e estudo
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="50" alt="Prisma" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" width="50" alt="SQLite"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="50" alt="Vue 3"/>
-
-</p>
-
----
-
-<!-- Contato -->
-### 📲 Vamos nos conectar!
-
+<h3 align="center">📲 Vamos nos conectar!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/inácio-gabriel-aa0599300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -58,14 +73,3 @@ Atualmente estudando e trabalhando com:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
----
-
-<!-- Rodapé opcional -->
-<!--
-**Inaciogabriel0/Inaciogabriel0** é um repositório ✨especial✨ porque seu `README.md` aparece no seu perfil GitHub.
-
-- 🌱 Atualmente aprendendo: Laravel, Next.js, Prisma
-- 💼 Buscando oportunidades para crescer como dev back-end
-- ⚙️ Gosto de automatizar e construir sistemas úteis
--->
